@@ -50,6 +50,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 > Em outro terminal.
 
+- cd backend 
 - npm i
 - npm start 
 
