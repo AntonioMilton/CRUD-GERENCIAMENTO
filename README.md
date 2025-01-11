@@ -7,7 +7,7 @@
 <p align="center">
     <img alt="OriginSix" src="assets/02-Desktop-CRUD.png" width="100%">
 </p>
-<p align="center">
+<p align="center" >
     <img alt="OriginSix" src="assets/03-Desktop-Gerenciamento-de-estoque.png" width="100%">
 </p>
 
@@ -15,15 +15,15 @@
 
     IPHONE 12 PRO.
 <p align="center">
-    <img alt="OriginSix" src="assets/04-Iphone12Pro-Home.png" width="100%">
+    <img alt="OriginSix" src="assets/04-Iphone12Pro-Home.png" width="390" height="844">
 </p>
 <p align="center">
-    <img alt="OriginSix" src="assets/05-Iphone12Pro-Gerenciamento-de-estoque.png" width="100%">
+    <img alt="OriginSix" src="assets/05-Iphone12Pro-Gerenciamento-de-estoque.png" width="390" height="844"> 
 </p>
 
     IPAD PRO
  <p align="center">
-    <img alt="OriginSix" src="assets/06-iPadPro-Gerenciamento-de-Estoque.png" width="100%">
+    <img alt="OriginSix" src="assets/06-iPadPro-Gerenciamento-de-Estoque.png" width="1024" height="1366">
 </p>
 
 ## 🚀 Tecnologias
