@@ -18,12 +18,12 @@
     <img alt="OriginSix" src="assets/04-Iphone12Pro-Home.png" width="390" height="844">
 </p>
 <p align="center">
-    <img alt="OriginSix" src="assets/05-Iphone12Pro-Gerenciamento-de-estoque.png" width="959" height="841"> 
+    <img alt="OriginSix" src="assets/05-Iphone12Pro-Gerenciamento-de-estoque.png" width="390" height="844"> 
 </p>
 
     IPAD PRO
  <p align="center">
-    <img alt="OriginSix" src="assets/06-iPadPro-Gerenciamento-de-Estoque.png" width="8" height="1366">
+    <img alt="OriginSix" src="assets/06-iPadPro-Gerenciamento-de-Estoque.png" width="959" height="841">
 </p>
 
 ## 🚀 Tecnologias
