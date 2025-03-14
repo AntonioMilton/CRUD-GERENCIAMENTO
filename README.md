@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-    <img alt="OriginSix" src="assets/07-HRA" width="1917" height="944">
+    <img alt="OriginSix" src="assets/07-HRA.png" width="1917" height="944">
 </p>
 
 ## 🚀 Tecnologias
