@@ -26,6 +26,10 @@
     <img alt="OriginSix" src="assets/06-iPadPro-Gerenciamento-de-Estoque.png" width="959" height="841">
 </p>
 
+<p align="center">
+    <img alt="OriginSix" src="assets/07-HRA" width="1917" height="944">
+</p>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
