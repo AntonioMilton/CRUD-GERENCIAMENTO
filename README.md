@@ -30,6 +30,11 @@
     <img alt="OriginSix" src="assets/07-HRA.png" width="1917" height="944">
 </p>
 
+<p align="center">
+    <img alt="OriginSix" src="assets/07-HRA.png" width="1000" height="492">
+</p>
+
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
